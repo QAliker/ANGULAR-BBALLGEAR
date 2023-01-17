@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "link":"assets/Red-harden.webp",
+        "title":"Adidas Harden VOL 1 RED",
+        "description":"The Beard shoes",
+        "price": "99,99",
+        "currency":"$"
+},
+{
+        "id": 2,
+        "link":"assets/basketball.webp",
+        "title":"Basketball",
+        "description":"If you need to hoop",
+        "price": "49,99",
+        "currency":"$"
+},
+{
+    "id": 3,
+        "link":"assets/black-nba-headband.jfif",
+        "title":"Black Headband",
+        "description":"For those who still wear a headband in 2022 we 're not judging",
+        "price": "29,99",
+        "currency":"$"
+},
+{
+    "id": 4,
+        "link":"assets/Kobes.jfif",
+        "title":"Nike Zoom Kobe 4 Protro",
+        "description":"For those who still wear a headband in 2022 we 're not judging",
+        "price": "149,99",
+        "currency":"$"
+    
+},
+{
+    "id": 4,
+        "link":"assets/nba-socks.jfif",
+        "title":"NBA Socks Size 42-45",
+        "description":"If you wanna look like a real hooper",
+        "price": "19,99",
+        "currency":"$"
+},
+{
+    "id": 5,
+"link":"assets/nba-white-headband.jfif",
+"title":"NBA White Headband",
+"description":"For the bald heads",
+"price": "29,99",
+"currency":"$"
+},
+{
+    "id": 6,
+"link":"assets/Red-Shooting-Sleeves.jpg",
+"title":"Red Shooting Sleeves",
+"description":"Please do not buy this if you can't shoot otherwise you 'll look dumb",
+"price": "49,99",
+"currency":"$"
+},
+{
+    "id": 7,
+    "link":"assets/Under-Armour-dubnation.jpg",
+    "title":"Under Armour Curry One Dubnation",
+    "description":"They lookin for the shooter",
+    "price":"129,99",
+    "currency":"$"
+},
+{
+    "id": 8,
+    "link":"assets/white-shooting-sleeve.jfif",
+    "title":"White Shooting Sleeve",
+    "description":"Please do not buy this if you can't shoot otherwise you 'll look dumb",
+    "price":"29,99",
+    "currency":"$"   
+},
+{
+    "id": 9,
+    "link":"/assets/WNBA-Basketball.jfif",
+    "title":"WNBA Official Basketball",
+    "description":"Looks Better than the officiel NBA Ball",
+    "price":"39,99",
+    "currency":"$"
+}
+]
